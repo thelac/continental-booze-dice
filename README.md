@@ -1,6 +1,6 @@
-# Project Title
+# Continental Booze Dice
 
-One Paragraph of project description goes here
+[Liar's Dice](https://en.wikipedia.org/wiki/Liar%27s_dice) with Stakes
 
 ## Getting Started
 
