@@ -26,8 +26,9 @@ Give examples
 * Simple majority of active players can take shot to implement new rule
 * If all dice are the same (counting wilds) everyone drinks
 * Third party buybacks are single opt-in
-* Someone who's out can take a shot and roll a die at any time before a turn resolves [to be ratified]
+* Someone who's out can take a shot and roll a die at any time before a turn resolves
 * First person to surrender a die takes two shots
+* Ian's Rule: at any time while a player is deciding their call, Ian Chang may call bullshit to take control of the call and turn
 
 ## Alternative Rules
 
