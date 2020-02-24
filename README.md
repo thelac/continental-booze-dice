@@ -14,43 +14,26 @@ What things you need to install the software and how to install them
 Give examples
 ```
 
-### Installing
+## Rules beyond Liar's Dice
 
-A step by step series of examples that tell you how to get a development env running
+* Players can start with more than 5 die
+* One drink to buy back a die
+* Sips for delta on missed call
+* If you win exact, everyone else drinks
+* Sharing drinks is allowed (Continental Rules - see alternative Chattanooga Hooch Dice Rules)
+* People who are out can contribute drinks
+* You can take a shot to add or decrement value of an exact call before roll is resolved
+* Simple majority of active players can take shot to implement new rule
+* If all dice are the same (counting wilds) everyone drinks
+* Third party buybacks are single opt-in
+* Someone who's out can take a shot and roll a die at any time before a turn resolves [to be ratified]
+* First person to surrender a die takes two shots
 
-Say what the step will be
+## Alternative Rules
 
-```
-Give the example
-```
+### Chattanoga Hooch Dice
 
-And repeat
-
-```
-until finished
-```
-
-End with an example of getting some data out of the system or using it for a little demo
-
-## Running the tests
-
-Explain how to run the automated tests for this system
-
-### Break down into end to end tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
-
-### And coding style tests
-
-Explain what these tests test and why
-
-```
-Give an example
-```
+* Drinks cannot be shared
 
 ## Deployment
 
