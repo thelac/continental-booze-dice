@@ -1,18 +1,14 @@
 # Continental Booze Dice
 
-[Liar's Dice](https://en.wikipedia.org/wiki/Liar%27s_dice) with Stakes
+[Liar's Dice](https://en.wikipedia.org/wiki/Liar%27s_dice) with stakes. This game was designed as an allegory for moral hazards in complex social systems. Also to get v drunk v fast.
 
 ## Getting Started
 
-These instructions will get you a copy of the project up and running on your local machine for development and testing purposes. See deployment for notes on how to deploy the project on a live system.
+Know the basic rules of Liar's Dice.
 
-### Prerequisites
+### Supplies
 
-What things you need to install the software and how to install them
-
-```
-Give examples
-```
+Each player should start with 5+ die, a shot glass, and a glass (or bottle/can).
 
 ## Rules beyond Liar's Dice
 
@@ -51,7 +47,5 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 
 ## Acknowledgments
 
-* Hat tip to anyone whose code was used
-* Inspiration
-* etc
+* shout out to my asshole friends who insist on playing this
 
