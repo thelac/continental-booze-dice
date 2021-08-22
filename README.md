@@ -49,6 +49,7 @@ All are welcome to submit pull requests
 
 * **The Leather Apron Club** - *Initial work*
 * **Ian Chang** - *The Ian Rule*
+* **The Warwick Pact** - *Latest win and elimination rules*
 
 ## License
 
