@@ -12,17 +12,21 @@ Each player should start with 5+ die, a shot glass, and a glass (or bottle/can).
 
 ## Rules beyond Liar's Dice
 
-* Players can start with more than 5 die
-* First person to surrender a die takes two shots
-* On a losing call, one drink buys back the die
-* On a losing call, drink n sips for the delta
-* On a correct EXACT call, everyone else drinks
+* On a losing call, player drinks and loses a die
+* When you lose your last die, you can take a shot to buy it back
+* On a correct EXACT call, everyone else drinks and you get a die back
+* Toms rule: any exact call can be donated to someone else
 * Sharing drinks is allowed (Continental Rules - see alternative Chattanooga Hooch Dice Rules)
 * Players who are out can contribute drinks
-* Ay player can take a shot to add or decrement value of an exact call before roll is resolved
+* Any player can take a shot to add or decrement value of an exact call before roll is resolved
+* Third party buybacks are single opt-in
+* You can win by returning to starting number of dice from 1
+* 18/3 = 6
+
+## Advanced Rules
+
 * Simple majority of active players can take shot to implement new rule
 * If all die are the same (counting wilds) all players drink
-* Third party buybacks are single opt-in
 * A player who's out can take a shot and roll a die at any time before a turn resolves
 * Ian's Rule: at any time while a player is deciding their call, Ian Chang may call bullshit to take control of the call and turn
 
