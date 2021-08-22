@@ -14,13 +14,16 @@ Each player should start with 5+ die, a shot glass, and a glass (or bottle/can).
 
 * On a losing call, player drinks and loses a die
 * When you lose your last die, you can take a shot to buy it back
-* On a correct EXACT call, everyone else drinks and you get a die back, up to starting umber
+* On a correct EXACT call, everyone else drinks and you get a die back, up to starting number
 * Toms rule: any die won from EXACT call can be donated to someone else
 * Sharing drinks is allowed (Continental Rules - see alternative Chattanooga Hooch Dice Rules)
 * Players who are out can contribute drinks
 * Third party buybacks are single opt-in
-* You can win by returning to starting number of dice from 1
 * 18/3 = 6
+
+## Win Conditions
+* Last player standing
+* Returning to the starting number of dice from one
 
 ## Advanced Rules
 
