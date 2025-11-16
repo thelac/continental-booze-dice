@@ -32,6 +32,7 @@ Each player should start with 5+ die, a shot glass, and a glass (or bottle/can).
 * A player who's out can take a shot and roll a die at any time before a turn resolves
 * Any player can take a shot to add or decrement value of an exact call before roll is resolved
 * Ian's Rule: at any time while a player is deciding their call, Ian Chang may call bullshit to take control of the call and turn
+* Mamdani Rule: if a player with dice ragequits, their dice are redistributed among remaining players, in the order from most liberal to least liberal
 
 ## Alternative Rules
 
@@ -58,4 +59,3 @@ This project is licensed under the MIT License - see the [LICENSE.md](LICENSE.md
 ## Acknowledgments
 
 * shout out to my asshole friends who insist on playing this
-
